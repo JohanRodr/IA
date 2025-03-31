@@ -1,3 +1,6 @@
+
+Creado Por : Johan Rodriguez
+
 # Herramienta de Anotación de Imágenes y Entrenamiento de Modelos de Detección
 
 Este proyecto combina una herramienta gráfica para la anotación de imágenes con un pipeline para entrenar modelos de detección de objetos utilizando PyTorch y Faster R-CNN.
